@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AppMoviesPractica/static/css/main.4b2c11be.chunk.css",
+    "main.js": "/AppMoviesPractica/static/js/main.f73ef2d7.chunk.js",
+    "main.js.map": "/AppMoviesPractica/static/js/main.f73ef2d7.chunk.js.map",
+    "runtime-main.js": "/AppMoviesPractica/static/js/runtime-main.9b8cc060.js",
+    "runtime-main.js.map": "/AppMoviesPractica/static/js/runtime-main.9b8cc060.js.map",
+    "static/js/2.68fce79a.chunk.js": "/AppMoviesPractica/static/js/2.68fce79a.chunk.js",
+    "static/js/2.68fce79a.chunk.js.map": "/AppMoviesPractica/static/js/2.68fce79a.chunk.js.map",
+    "index.html": "/AppMoviesPractica/index.html",
+    "static/css/main.4b2c11be.chunk.css.map": "/AppMoviesPractica/static/css/main.4b2c11be.chunk.css.map",
+    "static/js/2.68fce79a.chunk.js.LICENSE.txt": "/AppMoviesPractica/static/js/2.68fce79a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8cc060.js",
+    "static/js/2.68fce79a.chunk.js",
+    "static/css/main.4b2c11be.chunk.css",
+    "static/js/main.f73ef2d7.chunk.js"
+  ]
+}
