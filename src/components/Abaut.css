@@ -1,0 +1,29 @@
+.centrado li {
+  text-align: center !important;
+
+}
+
+
+.formato {
+  background-color: black;
+  padding:7px;
+}
+
+.formato a {
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
+  margin-left: 5px;
+}
+
+.formato p {
+  text-align: center;
+  color: white;
+}
+
+i {
+  text-align: center;
+  font-size: 2rem;
+  margin-right: 10px;
+}
